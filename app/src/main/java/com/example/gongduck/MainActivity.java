@@ -320,7 +320,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         protected void onPostExecute(Long result) {
             String data = "";
 
-            data = "기온 : " + weathers.get(0).getTemp() + "℃" + ' ' + weathers.get(0).getWfKor() + '\n' + "강수 확률 : " + weathers.get(0).getPop();
+            data = weathers.get(0).getWfKor()+ '\n' +'\n' + "기온 : " + weathers.get(0).getTemp() + "℃" + ' '  + '\n' + "강수 확률 : " + weathers.get(0).getPop()+"%";
             nav_header_weather.setText(data);
 
             weatherCode = weathers.get(0).getWfKor();

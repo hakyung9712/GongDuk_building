@@ -137,7 +137,7 @@ public class HotActivity extends AppCompatActivity implements TMapGpsManager.onL
             public void onClick(View v) {
                 TMapPoint nowPoint=new TMapPoint(nowLogitude,nowLatitude);
                 //TMapPoint nowPoint=new TMapPoint(126.950876, 37.543926);
-                TMapPoint point = new TMapPoint(m_point3.get(1).getLatitude(), m_point3.get(1).getLongitude());
+                TMapPoint point = new TMapPoint(m_point3.get(2).getLatitude(), m_point3.get(2).getLongitude());
                 final TMapPoint startpoint=new TMapPoint(nowPoint.getLongitude(),nowPoint.getLatitude());
                 tmapdata.findPathDataWithType(TMapData.TMapPathType.PEDESTRIAN_PATH, startpoint, point, new TMapData.FindPathDataListenerCallback() {
                     @Override

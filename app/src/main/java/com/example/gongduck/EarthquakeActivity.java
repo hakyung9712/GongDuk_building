@@ -137,7 +137,7 @@ public class EarthquakeActivity extends AppCompatActivity implements TMapGpsMana
             public void onClick(View v) {
                 TMapPoint nowPoint=new TMapPoint(nowLogitude,nowLatitude);
                 //TMapPoint nowPoint=new TMapPoint(126.950876, 37.543926);
-                TMapPoint point = new TMapPoint(m_point.get(0).getLatitude(), m_point.get(0).getLongitude());
+                TMapPoint point = new TMapPoint(m_point.get(10).getLatitude(), m_point.get(10).getLongitude());
                 final TMapPoint startpoint=new TMapPoint(nowPoint.getLongitude(),nowPoint.getLatitude());
                 tmapdata.findPathDataWithType(TMapData.TMapPathType.PEDESTRIAN_PATH, startpoint, point, new TMapData.FindPathDataListenerCallback() {
                     @Override
