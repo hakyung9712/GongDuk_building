@@ -1,0 +1,20 @@
+# GongDuk_building
+건축정보 모바일 서비스 콘텐츠 개발 공모전
+
+![슬라이드1](https://user-images.githubusercontent.com/47092708/74404661-7e445d00-4e6e-11ea-838f-949767ca710b.PNG)
+![슬라이드2](https://user-images.githubusercontent.com/47092708/74404663-7edcf380-4e6e-11ea-80b5-835d18c6f76c.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/47092708/74404665-7f758a00-4e6e-11ea-97fe-fb144e1d4736.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/47092708/74404666-800e2080-4e6e-11ea-9fb8-da9e1121dd2e.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/47092708/74404667-800e2080-4e6e-11ea-9fa8-ca4bc019980a.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/47092708/74404668-80a6b700-4e6e-11ea-96b8-ad945da9bbd0.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/47092708/74404669-813f4d80-4e6e-11ea-8ab4-fd2cd13d3715.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/47092708/74404671-81d7e400-4e6e-11ea-8663-ffb4a234e091.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/47092708/74404672-81d7e400-4e6e-11ea-8d83-3b0cf9f435fb.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/47092708/74404673-82707a80-4e6e-11ea-8a16-5b4cea11ddca.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/47092708/74404674-83091100-4e6e-11ea-829b-16130da1db8d.PNG)
+![슬라이드12](https://user-images.githubusercontent.com/47092708/74404676-83091100-4e6e-11ea-91f5-721cf6bd72a3.PNG)
+![슬라이드13](https://user-images.githubusercontent.com/47092708/74404650-7ab0d600-4e6e-11ea-812c-9ef1d381c11b.PNG)
+![슬라이드14](https://user-images.githubusercontent.com/47092708/74404652-7c7a9980-4e6e-11ea-8c9d-a4b2eed01d42.PNG)
+![슬라이드15](https://user-images.githubusercontent.com/47092708/74404654-7d133000-4e6e-11ea-9fbe-80bf915197b6.PNG)
+![슬라이드16](https://user-images.githubusercontent.com/47092708/74404655-7dabc680-4e6e-11ea-8f87-04d6ca3aecf6.PNG)
+![슬라이드17](https://user-images.githubusercontent.com/47092708/74404659-7dabc680-4e6e-11ea-8df9-ba39558b6c90.PNG)
